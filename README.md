@@ -21,6 +21,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+- [**@jchenDDD**](https://github.com/jchenDDD) Hi, I'm John. I love spaghetti and posting my personal information on the internet. No one is reading this.
 - [**@Benson-chou**](https://github.com/Benson-chou) I am addicted to Genshin :). Save me
 - [**@evelyn323**](https://github.com/evelyn323): Hi, I'm Evelyn and I love reading. 
 - [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing game 🎮 and watching drama. 
