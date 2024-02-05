@@ -40,6 +40,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [**@karimzakir02**](https://github.com/karimzakir02). I am from Russia. I like cooking! (☞ ͡° ͜ʖ ͡°)☞
 - William Zhang [**@WilliamQD**](https://github.com/WilliamQD) Suppp! I'm William. I like to sit in the front rows of every lecture. Looking forward to meet everyone! <img src="https://avatars.githubusercontent.com/u/54301360?s=460&v=4" alt="head photo of William" width="80px">
 - Hongshuo Zhou [**@Hongshuo**](https://github.com/HS-ZHOU) Hi, I'm from China and my favorite sport is tennis🎾. Hope everyone has a wonderful semester🎉!
+- Yiru Wang [**@Yiru-Wang0123**](https://github.com/Yiru-Wang0123) Hi, I'm Yiru, I run track and cross country at UofT. 🏃🏻‍♀️
 
 # Teaching Team
 
